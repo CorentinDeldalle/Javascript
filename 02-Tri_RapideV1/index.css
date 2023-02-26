@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Nexa;
+    src: url(Nexa-ExtraLight.ttf);
+}
+
+body{
+    background-color: pink;
+    font-family: Nexa;
+    text-align: center;
+    margin-top: 10vw;
+}
+
+h1{
+    margin-left: 15vw;
+    margin-right: 15vw;
+}
+
+p{
+    padding-top: 5vw;
+    padding-left: 5vw;
+    text-align: left;
+}
